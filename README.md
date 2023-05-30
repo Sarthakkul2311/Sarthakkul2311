@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakkul2311" alt="sarthakkul2311" /></a> </p>
 
-- 💬 Ask me about **C/C++, React, Python and Web Development**
+- 💬 Ask me about **C/C++, React JS, Python and Web Development**
 
 - 📫 How to reach me **sarthakkul2311@gmail.com**
 
